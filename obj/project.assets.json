@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/layton/Documents/S/School/Current Semester/413/LaytonBarneyMission2Assignment/LaytonBarneyMission2Assignment.csproj",
+      "projectUniqueName": "/Users/layton/Documents/G/Github/Mission2/LaytonBarneyMission2Assignment.csproj",
       "projectName": "LaytonBarneyMission2Assignment",
-      "projectPath": "/Users/layton/Documents/S/School/Current Semester/413/LaytonBarneyMission2Assignment/LaytonBarneyMission2Assignment.csproj",
+      "projectPath": "/Users/layton/Documents/G/Github/Mission2/LaytonBarneyMission2Assignment.csproj",
       "packagesPath": "/Users/layton/.nuget/packages/",
-      "outputPath": "/Users/layton/Documents/S/School/Current Semester/413/LaytonBarneyMission2Assignment/obj/",
+      "outputPath": "/Users/layton/Documents/G/Github/Mission2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/layton/.config/NuGet/NuGet.Config"

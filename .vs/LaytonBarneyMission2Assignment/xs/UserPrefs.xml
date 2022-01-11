@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{62F3DC7D-0D75-4420-8E3D-2797FEDF3559}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/index.html">
+    <Files>
+      <File FileName="wwwroot/index.html" Line="30" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LaytonBarneyMission2Assignment" expanded="True">
+            <Node name="LaytonBarneyMission2Assignment" expanded="True">
+              <Node name="wwwroot" expanded="True">
+                <Node name="index.html" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LaytonBarneyMission2Assignment PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
